@@ -5,45 +5,69 @@ Apasionado por la innovación tecnológica, la arquitectura de software escalabl
 
 ---
 
-## 💻 Tecnologías & Ecosistema
+## 💻 Tecnologías de mi Ecosistema  
 
-- **Lenguajes**: Java, PHP, C#, JavaScript, TypeScript, SQL, NoSQL  
-- **Frameworks**: Node.js, NestJS, Laravel, Spring Boot, .NET, React  
-- **Infraestructura & DevOps**: Kubernetes, Docker, Jenkins, GitHub, Git  
-- **Bases de Datos**: PostgreSQL, MySQL, DynamoDB  
-- **Cloud**: AWS (EC2, S3, RDS, Lambda, API Gateway, DynamoDB, CodePipeline, etc.)  
-- **Patrones y Arquitectura**: MVC, Inyección de Dependencias, Microservicios  
+<p>
+  <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
 
 ---
 
-## 🏆 Experiencia Clave
+## ☁️ Tecnologías Cloud & DevOps  
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</p>
+
+---
+
+## 🗄️ Bases de Datos  
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
+
+---
+
+## 🏰 Frameworks & Librerías  
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+</p>
+
+---
+
+## 🏆 Experiencia Clave  
 
 ✔️ Más de **8 años de experiencia** en desarrollo de aplicaciones web y back-end.  
 ✔️ Desarrollo y consumo de **APIs REST**.  
-✔️ Experiencia en **CI/CD** con Jenkins y AWS CodePipeline.  
+✔️ Experiencia en **CI/CD** con Jenkins, Azure DevOps y AWS CodePipeline.  
 ✔️ Conocimientos sólidos de **Docker y Kubernetes**.  
 ✔️ Experiencia en entornos **Linux**.  
 ✔️ Excelente capacidad de comunicación, liderazgo y resolución de problemas.  
 
 ---
 
-## ☁️ Experiencia en la Nube
-
-### 🔹 AWS
-- **Servicios Web**: EC2, S3, RDS, Lambda, API Gateway, DynamoDB, etc.  
-- **Automatización de Infraestructura**: Scripts y herramientas para despliegues en la nube.  
-- **Seguridad en la Nube**: IAM, VPCs, CloudTrail y buenas prácticas de seguridad.  
-- **CI/CD con AWS**: CodeCommit, CodeBuild, CodePipeline, CodeDeploy.  
-
-### 🔹 Azure
-- **Servicios PaaS & IaaS**: App Service, Azure Functions, Azure SQL Database, Virtual Machines.  
-- **Automatización**: Azure DevOps Pipelines, ARM Templates, Bicep.  
-- **Seguridad**: Azure Active Directory (AAD), Key Vault, RBAC.  
-- **CI/CD**: Experiencia en integración y despliegues continuos usando **Azure DevOps** y GitHub Actions.  
-
----
-
-## 📫 Conéctemos
+## 📫 Conéctemos  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Javier%20Sanchez-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ing-javier-sanchez/)  
 [![GitHub](https://img.shields.io/badge/GitHub-JavieSanchezB-black?style=for-the-badge&logo=github)](https://github.com/JavieSanchezB)  
