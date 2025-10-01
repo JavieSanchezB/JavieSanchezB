@@ -25,11 +25,23 @@ Apasionado por la innovación tecnológica, la arquitectura de software escalabl
 ✔️ Experiencia en entornos **Linux**.  
 ✔️ Excelente capacidad de comunicación, liderazgo y resolución de problemas.  
 
+---
+
+## ☁️ Experiencia en la Nube
+
+### 🔹 AWS
+- **Servicios Web**: EC2, S3, RDS, Lambda, API Gateway, DynamoDB, etc.  
+- **Automatización de Infraestructura**: Scripts y herramientas para despliegues en la nube.  
+- **Seguridad en la Nube**: IAM, VPCs, CloudTrail y buenas prácticas de seguridad.  
+- **CI/CD con AWS**: CodeCommit, CodeBuild, CodePipeline, CodeDeploy.  
+
 ### 🔹 Azure
 - **Servicios PaaS & IaaS**: App Service, Azure Functions, Azure SQL Database, Virtual Machines.  
 - **Automatización**: Azure DevOps Pipelines, ARM Templates, Bicep.  
 - **Seguridad**: Azure Active Directory (AAD), Key Vault, RBAC.  
 - **CI/CD**: Experiencia en integración y despliegues continuos usando **Azure DevOps** y GitHub Actions.  
+
+---
 
 ## 📫 Conéctemos
 
